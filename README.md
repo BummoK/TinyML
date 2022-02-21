@@ -1,4 +1,5 @@
 # TinyML: Tensorflow lite for microcontroller
+(https://github.com/tinyml-mobility/tensorflow-lite/blob/master/README.md)
 
 The example of the TinyML Book.
 
